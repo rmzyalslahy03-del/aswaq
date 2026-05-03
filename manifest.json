@@ -1,0 +1,98 @@
+{
+  "name": "مجمع أسواق ريادة المستهلك",
+  "short_name": "ريادة المستهلك",
+  "description": "أفضل المتاجر والمنتجات بأفضل الأسعار - تطبيق تسوق متكامل",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#f4f7fc",
+  "orientation": "portrait",
+  "lang": "ar",
+  "dir": "rtl",
+  "scope": "/",
+  "categories": ["shopping", "business", "lifestyle"],
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/72x72?text=Logo",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/96x96?text=Logo",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/128x128?text=Logo",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/144x144?text=Logo",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/152x152?text=Logo",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/192x192?text=Logo",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/384x384?text=Logo",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512?text=Logo",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://via.placeholder.com/1280x720?text=Screenshot1",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "الصفحة الرئيسية"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "البحث",
+      "short_name": "بحث",
+      "description": "البحث عن منتج أو متجر",
+      "url": "/?search=true",
+      "icons": [{ "src": "https://via.placeholder.com/96x96?text=Search", "sizes": "96x96" }]
+    },
+    {
+      "name": "سلة التسوق",
+      "short_name": "السلة",
+      "description": "عرض سلة التسوق",
+      "url": "/?cart=true",
+      "icons": [{ "src": "https://via.placeholder.com/96x96?text=Cart", "sizes": "96x96" }]
+    },
+    {
+      "name": "حسابي",
+      "short_name": "حسابي",
+      "description": "الملف الشخصي",
+      "url": "/?profile=true",
+      "icons": [{ "src": "https://via.placeholder.com/96x96?text=User", "sizes": "96x96" }]
+    }
+  ],
+  "prefer_related_applications": false,
+  "related_applications": []
+}
